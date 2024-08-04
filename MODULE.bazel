@@ -1,0 +1,3 @@
+module(name = "cri-api")
+
+bazel_dep(name = "rules_proto", version = "7.1.0")

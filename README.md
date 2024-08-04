@@ -1,3 +1,11 @@
+# CRI API: Vimana Fork
+
+This fork of the [CRI API]
+(which is itself a mirror of a subdirectory of the K8s repo)
+exists only to be able to consume it as a Bazel module.
+
+[CRI API]: https://github.com/kubernetes/cri-api
+
 ## Purpose
 
 This repository contains the definitions for the Container Runtime Interface (CRI).
